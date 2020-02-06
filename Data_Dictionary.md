@@ -1,10 +1,10 @@
 # Data Dictionary
 
-### 1.	Country
-### 2.	Year
-### 3.	Status
-### 4.	Life expectancy
-### 5.	Adult Mortality
+#### 1.	Country
+#### 2.	Year
+#### 3.	Status
+#### 4.	Life expectancy
+#### 5.	Adult Mortality
 6.	infant deaths
 7.	Alcohol
 8.	percentage expenditure
