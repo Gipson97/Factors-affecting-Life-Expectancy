@@ -3,12 +3,12 @@
 |Sr No. |Variable Name            |Description                                                                                  |
 |-------|-------------------------|---------------------------------------------------------------------------------------------|
 |1.	    |Country                  |193 countires                                                                                |
-|2.	    |Year - 2000 to 2015
-#### 3.	Status - Developed or not Developed Country
-#### 4.	Life expectancy - Life Expectancy in age
-#### 5.	Adult Mortality - Mortality Rates of both sexes
-#### 6.	Infant deaths - Number of Infant Deaths per 1000 population
-#### 7.	Alcohol - Alcohol, recorded per capita (15+) consumption
+|2.	    |Year                     |2000 to 2015                                                                                 |
+|3.	    |Status                   |Developed or not Developed Country                                                           |
+|4.	    |Life expectancy          |Life Expectancy in age                                                                       |
+|5.	    |Adult Mortality          |Mortality Rates of both sexes                                                                |
+|6.	    |Infant deaths            |Number of Infant Deaths per 1000 population                                                  |
+|7.	    |Alcohol                  |Alcohol, recorded per capita (15+) consumption                                               |
 #### 8.	Percentage expenditure - Expenditure on health as a percentage of Gross Domestic Product per capita(%)
 #### 9.	Hepatitis B - Immunization coverage among 1-year-olds (%)
 #### 10. Measles - Number of reported cases per 1000 population
