@@ -1,1 +1,1 @@
-![GitHub Logo](C:\Users\gipso\Desktop\Cor.png | width=100)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1" | width=100)
