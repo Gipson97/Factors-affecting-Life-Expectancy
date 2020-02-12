@@ -1,1 +1,1 @@
-![Alternate image text](https://someurl/imagelocation/image.png)
+![image](https://www.pinclipart.com/pindetail/TRiJwR_1200px-img-wme-img-clipart/)
