@@ -17,7 +17,7 @@ Status, Adult Mortality, infant deaths, percentage expenditure, under-five death
 
 
 |Sr No. |Variable Name            |Description                                                                                  |
-|-------|-------------------------|---------------------------------------------------------------------------------------------|\
+|-------|-------------------------|---------------------------------------------------------------------------------------------|
 |1.	    |Life expectancy          |Life Expectancy in age                                                                       |
 |2.	    |Status                   |Developed or not Developed Country                                                           |
 |3.	    |Adult Mortality          |Mortality Rates of both sexes                                                                |
