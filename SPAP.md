@@ -12,6 +12,26 @@ Life Expectancy
 2.Impact of life expectancy on developed countries.
 #### Independent Variables:
 Status, Adult Mortality, infant deaths, percentage expenditure, under-five deaths, Alcohol, HIV/AIDS, BMI, Total expenditure, GDP, Population, Income composition of resources, Schooling.
+
+# Key Performance Indicator
+
+
+|Sr No. |Variable Name            |Description                                                                                  |
+|-------|-------------------------|---------------------------------------------------------------------------------------------|\
+|1.	    |Life expectancy          |Life Expectancy in age                                                                       |
+|2.	    |Status                   |Developed or not Developed Country                                                           |
+|3.	    |Adult Mortality          |Mortality Rates of both sexes                                                                |
+|4.	    |Infant deaths            |Number of Infant Deaths per 1000 population                                                  |
+|5.	    |Alcohol                  |Alcohol, recorded per capita (15+) consumption                                               |
+|6.	    |Percentage expenditure   |Expenditure on health as a percentage of Gross Domestic Product per capita(%)                |
+|7.     |BMI                      |Body Mass Index of entire population                                                         |
+|8.     |Under-five deaths        |Number of under-five deaths per 1000 population                                              |
+|9.     |Total expenditure        |General government expenditure on health as a percentage of total government expenditure (%) |
+|10.    |HIV/AIDS                 |Deaths per 1 000 live births HIV/AIDS (0-4 years)                                            |
+|11.    |GDP                      |Domestic Product per capita (in USD)                                                         |
+|12.    |Population               |Population of the country                                                                    |
+|13.    |Income composition of resources      |Income composition of resourcesHuman Development Index                                       |
+|14.    |Schooling                |Number of years of Schooling(years)                                                          |
  
 ## Summary Analysis
 This provides the summary distribution of dataset of how widely the data has been spread.
