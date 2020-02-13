@@ -30,7 +30,7 @@ Status, Adult Mortality, infant deaths, percentage expenditure, under-five death
 |10.    |HIV/AIDS                 |Deaths per 1 000 live births HIV/AIDS (0-4 years)                                            |
 |11.    |GDP                      |Domestic Product per capita (in USD)                                                         |
 |12.    |Population               |Population of the country                                                                    |
-|13.    |Income of resources      |Income composition of resourcesHuman Development Index                                       |
+|13.    |Income composition of resources      |Income composition of resourcesHuman Development Index                                       |
 |14.    |Schooling                |Number of years of Schooling(years)                                                          |
  
 ## Summary Analysis
