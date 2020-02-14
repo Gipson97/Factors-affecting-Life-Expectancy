@@ -45,14 +45,17 @@ In this project we are analyzing the factors that affects the life expectancy of
 
 #### Hypothesis: - 1
 H0 = In this hypothesis we consider that economic factors contribute to life expectancy i.e. if the economy of a country is less their life expectancy is expected to be less.
+
 H1= In this hypothesis we consider that not only economic factor contributes to life expectancy but also other factors like literacy, health, income etc. can affect life expectancy.
 
 #### Hypothesis: - 2
 H0 = In this hypothesis we consider that health affects the life expectancy i.e. diseases like HIV, Measles, diphtheria, polio etc. can reduce life expectancy of a country.
+
 H1= In this hypothesis we consider that not only health affects life expectancy but also other factors like Schooling, GDP, economy can contribute to life expectancy.
 
 #### Hypothesis: - 3
 H0 = In this hypothesis we consider that literacy factors affect life expectancy i.e. more educated the country is, higher the life expectancy.
+
 H1= In this hypothesis we consider that not only literacy affects life expectancy but also other factors like health, revenue etc. contribute to life expectancy.
 
 
